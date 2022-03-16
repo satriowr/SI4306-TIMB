@@ -1,10 +1,11 @@
 Satrio
 Farhan
 Marcha
-Aryad
+Arsyad
 Balqi
 Iqbal
 
+<<<<<<< HEAD
 Mr Dursley selalu duduk membelakangi jendela di kantornya di lantai sembilan. Jika
 tidak, mungkin sulit baginya untuk berkonsentrasi pada bor pagi itu. Dia tidak melihat
 burungburung hantu terbang berseliweran di siang hari, meskipun orang-orang lain di jalan
@@ -15,3 +16,18 @@ gangguan burung hantu. Dia berteriak pada lima orang yang berbeda. Dia melakukan
 beberapa pembicaraan telepon penting dan berteriak beberapa kali lagi. Hatinya sedang
 senang, sampai waktu makan siang, ketika dia memutuskan akan melemaskan kaki dan
 berjalan ke toko kue di seberang jalan.
+=======
+<<<<<<< HEAD
+Si kucing balas memandangnya, Saat Mr Dursley berbelok di sudut dan meneruskan
+perjalanan, dia memandang kucing itu lewat kaca spionnya. Kucing itu sekarang sedang
+membaca papan jalan yang bertuliskan Privet Drive—bukan, bukan membaca melainkan
+memandang papan jalan itu, kucing itu tidak bisa membaca peta atau papan jalan. Mr Dursley
+menggelengkan kepalanya dan mencoba melupakan kucing itu.
+=======
+Dia sudah lupa sama sekali pada orang-orang berjubah, sampai dia melewati
+serombongan lagi di sebelah toko kue. Dia mendelik gusar kepada mereka. Dia tidak tahu
+kenapa, tetapi mereka membuatnya resah. Rombongan yang ini juga berbisik-bisik tegang
+dan dia sama sekali tidak melihat satu pun kotak pengumpul dana. Saat melewati mereka lagi
+dalam perjalanan kembali ke kantor, dia mendengar beberapa kata yang mereka ucapkan.
+>>>>>>> 00fc33f83851ce4006109027903adf8dd4dcd0fe
+>>>>>>> 3f2d29794d649f71b15147c4ddf5178d0675ca61
