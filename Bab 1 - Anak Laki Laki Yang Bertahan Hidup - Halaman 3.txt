@@ -5,6 +5,12 @@ Arsyad
 Balqi
 Iqbal
 
+Baqi
+Mr Dursley berdiri terpaku di tempatnya. Dia baru saja dipeluk oleh orang yang sama
+sekali asing. Seingatnya dia juga disebut Muggle, entah apa artinya itu. Dia jadi bingung. Dia
+bergegas ke mobilnya dan pulang, berharap bahwa semua tadi hanya khayalannya. Ini
+sesuatu yang tak pernah terjadi sebelumnya, karena dia orang yang tak suka berkhayal.
+
 Arsyad
 Ketika mobilnya meluncur masuk ke pekarangan rumah nomor empat, yang pertama
 kali dilihatnya— dan ini tidak membuatnya bertambah lega—adalah kucing betina yang telah
@@ -29,5 +35,6 @@ membahagiakan ini!"
 Sulit baginya untuk berkonsentrasi pada bor sore itu, dan ketika meninggalkan
 kantornya pada pukul lima sore, dia masih cemas sehingga menabrak orang di depan pintu.
 b41eaa65b7071cb246ef95bb384c2206efd8aa64
+main
 main
 main
