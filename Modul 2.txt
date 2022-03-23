@@ -4,4 +4,5 @@ fitur profile
 Fitur Dashboard
 Fitur Login
 Fitur Registrasi
+Fitur Landing Page
 main
