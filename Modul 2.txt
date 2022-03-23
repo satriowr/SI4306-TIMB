@@ -5,4 +5,5 @@ Fitur Dashboard
 Fitur Login
 Fitur Registrasi
 Fitur Landing Page
+Fitur Detail Pesanan
 main
