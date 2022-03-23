@@ -1,2 +1,3 @@
 Fitur Dashboard
 Fitur Login
+Fitur Registrasi
